@@ -80,13 +80,14 @@ Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramenta
 <!-- ICONES SOCIAIS CENTRALIZADOS -->
 <p align="center">
   <a href="SEU_LINKEDIN" target="_blank" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/brand-linkedin.svg" height="54" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="LinkedIn"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:SEU_EMAIL@gmail.com" title="Email">
-    <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/mail.svg" height="54" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="38" alt="Gmail"/>
   </a>
 </p>
+
 
 
 <p align="center">
