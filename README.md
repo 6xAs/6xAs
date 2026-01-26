@@ -7,10 +7,10 @@
 Desenvolvedor Full Stack • Cientista de Dados • Professor
 </p>
 
-<p align="left">
+<h3 align="left">
 Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramentas práticas para
 <b>tomada de decisão, educação e automação</b>.
-</p>
+</h3>
 
 <!-- =======================
      HERO CARDS (COMPACT)
@@ -89,11 +89,11 @@ Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramenta
     <tr>
       <td width="50%" valign="top">
         <b>Sentinela Ambiental</b><br/>
-        <sub>Sistema orientado a dados para monitoramento ambiental e análise de risco de queimadas.</sub>
+        <sub>Sistema desenvolvido como projeto de conclusão de curso de Pós Graduação em Data Cience com IA, orientado a dados para monitoramento ambiental e análise de risco de queimadas no Biôma Amazônico</sub>
         <br/><br/>
         <sub><b>Tech:</b> Python • Pandas • Streamlit • Data Science</sub>
         <br/><br/>
-        <a href="COLE_AQUI_O_LINK_DO_REPOSITORIO" target="_blank">Ver repositório</a>
+        <a href="https://github.com/6xAs/sentinela-ambiental" target="_blank">Ver repositório</a>
       </td>
       <td width="50%" valign="top">
         <b>PraxiLab</b><br/>
@@ -101,7 +101,7 @@ Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramenta
         <br/><br/>
         <sub><b>Tech:</b> Next.js • Dados • Educação • Gamificação</sub>
         <br/><br/>
-        <a href="COLE_AQUI_O_LINK_DO_PROJETO" target="_blank">Acompanhar projeto</a>
+        <a href="#" target="_blank">Acesso em Breve</a>
       </td>
     </tr>
   </table>
@@ -131,18 +131,18 @@ Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramenta
   <tr>
     <td width="60%" valign="top">
       <b>Contato</b><br/><br/>
-      <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="16" alt="LinkedIn" />
-      <a href="SEU_LINKEDIN" target="_blank">LinkedIn</a>
+      <img src="https://unpkg.com/@svg-icons/simple-icons@latest/linkedin.svg" height="16" alt="LinkedIn" />
+      <a href="https://www.linkedin.com/in/anderson-seixas-/" target="_blank">LinkedIn</a>
       <br/><br/>
-      <img src="https://cdn.simpleicons.org/gmail/ffffff" height="16" alt="Gmail" />
-      <a href="mailto:SEU_EMAIL@gmail.com">SEU_EMAIL@gmail.com</a>
+      <img src="https://unpkg.com/@svg-icons/simple-icons@latest/gmail.svg" height="16" alt="Gmail" />
+      <a href="mailto:anderson.6xas@gmail.com">anderson.6xas@gmail.com</a>
     </td>
     <td width="40%" valign="top">
       <b>Referências</b><br/><br/>
       <img src="https://cdn.simpleicons.org/github/ffffff" height="16" alt="GitHub" />
       <a href="https://github.com/6xAs" target="_blank">github.com/6xAs</a>
       <br/><br/>
-      <sub>README otimizado para leitura rápida e navegação por painéis.</sub>
+      <sub>Esse é o meu Perfil!</sub>
     </td>
   </tr>
 </table>
