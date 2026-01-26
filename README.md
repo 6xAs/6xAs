@@ -129,20 +129,19 @@ Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramenta
 ======================= -->
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <b>Contato</b><br/><br/>
+    <td valign="middle">
       <img src="https://unpkg.com/@svg-icons/simple-icons@latest/linkedin.svg" height="16" alt="LinkedIn" />
-      <a href="https://www.linkedin.com/in/anderson-seixas-/" target="_blank">LinkedIn</a>
-      <br/><br/>
-      <img src="https://unpkg.com/@svg-icons/simple-icons@latest/gmail.svg" height="16" alt="Gmail" />
-      <a href="mailto:anderson.6xas@gmail.com">anderson.6xas@gmail.com</a>
     </td>
-    <td width="40%" valign="top">
-      <b>Referências</b><br/><br/>
-      <img src="https://cdn.simpleicons.org/github/ffffff" height="16" alt="GitHub" />
-      <a href="https://github.com/6xAs" target="_blank">github.com/6xAs</a>
-      <br/><br/>
-      <sub>Esse é o meu Perfil!</sub>
+    <td valign="middle">
+      <a href="SEU_LINKEDIN" target="_blank">LinkedIn</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <img src="https://unpkg.com/@svg-icons/simple-icons@latest/gmail.svg" height="16" alt="Gmail" />
+    </td>
+    <td valign="middle">
+      <a href="mailto:SEU_EMAIL@gmail.com">SEU_EMAIL@gmail.com</a>
     </td>
   </tr>
 </table>
