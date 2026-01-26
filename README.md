@@ -11,18 +11,6 @@ Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramenta
 
 <br/>
 
-<!-- ICONES SOCIAIS CENTRALIZADOS -->
-<p align="center">
-  <a href="SEU_LINKEDIN" target="_blank" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/brand-linkedin.svg" height="34" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL@gmail.com" title="Email">
-    <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/mail.svg" height="34" alt="Email"/>
-  </a>
-</p>
-
-<br/>
 
 <!-- STATS MAIORES -->
 <div align="center">
@@ -89,11 +77,17 @@ Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramenta
 <hr/>
 
 <!-- FOOTER SOMENTE CONTATO + REFERÊNCIAS -->
+<!-- ICONES SOCIAIS CENTRALIZADOS -->
 <p align="center">
-  <a href="SEU_LINKEDIN" target="_blank">LinkedIn</a> •
-  <a href="mailto:SEU_EMAIL@gmail.com">Email</a> •
-  <a href="https://github.com/6xAs" target="_blank">GitHub</a>
+  <a href="SEU_LINKEDIN" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/brand-linkedin.svg" height="54" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:SEU_EMAIL@gmail.com" title="Email">
+    <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/mail.svg" height="54" alt="Email"/>
+  </a>
 </p>
+
 
 <p align="center">
   <sub>Referências visuais: Tabler Icons (SVG) + GitHub Readme Stats.</sub>
