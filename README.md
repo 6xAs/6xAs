@@ -1,114 +1,148 @@
 <p align="center">
-  <!-- BANNER ANIMADO -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" height="1900" />
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Banner Futurista - Dados e Tecnologia" />
 </p>
 
-<h2 align="left">
-Olá 👋, eu sou o Anderson Seixas<br/>
-<span style="font-size:14px">Desenvolvedor • Cientista de Dados • Professor</span>
-</h2>
+<h1 align="left" style="margin: 0;">Anderson Seixas</h1>
+<p align="left" style="margin-top: 6px;">
+Desenvolvedor Full Stack • Cientista de Dados • Professor
+</p>
 
 <p align="left">
-Crio soluções que transformam <strong>dados, sistemas e processos</strong> em
-<strong>ferramentas práticas para tomada de decisão, educação e automação</strong>.
+Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramentas práticas para
+<b>tomada de decisão, educação e automação</b>.
 </p>
 
----
+<!-- =======================
+     HERO CARDS (COMPACT)
+======================= -->
+<table width="100%">
+  <tr>
+    <td width="33.33%" valign="top">
+      <h3 style="margin:0;">Visão</h3>
+      <p style="margin-top:8px;">
+        Tecnologia aplicada com foco em impacto: clareza, utilidade e escalabilidade.
+      </p>
+      <p>
+        <sub>Educação • Dados • Governo Digital • Automação</sub>
+      </p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3 style="margin:0;">Atuação</h3>
+      <p style="margin-top:8px;">
+        Desenvolvimento de sistemas, análise/visualização de dados e pipelines de automação.
+      </p>
+      <p>
+        <sub>Produto • Pesquisa aplicada • Ferramentas internas</sub>
+      </p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3 style="margin:0;">Diferencial</h3>
+      <p style="margin-top:8px;">
+        Combino engenharia + didática: construo e explico soluções com precisão.
+      </p>
+      <p>
+        <sub>Documentação • UX funcional • Ensino</sub>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub em números
+<hr/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anderson-Seixas&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Seixas&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150"/>
-</div>
+<!-- =======================
+     “TABS” (DETAILS PANELS)
+======================= -->
+<details open>
+  <summary><b>Stack (principal)</b> <sub>— clique para recolher</sub></summary>
+  <br/>
 
----
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <b>Linguagens & Dados</b><br/><br/>
+        <img src="https://cdn.simpleicons.org/python/ffffff" height="22" alt="Python" />
+        <img src="https://cdn.simpleicons.org/javascript/ffffff" height="22" alt="JavaScript" />
+        <img src="https://cdn.simpleicons.org/php/ffffff" height="22" alt="PHP" />
+        <img src="https://cdn.simpleicons.org/mysql/ffffff" height="22" alt="MySQL" />
+        <br/><br/>
+        <sub>Foco em soluções de dados + aplicações web escaláveis.</sub>
+      </td>
+      <td width="50%" valign="top">
+        <b>Frameworks & Ferramentas</b><br/><br/>
+        <img src="https://cdn.simpleicons.org/streamlit/ffffff" height="22" alt="Streamlit" />
+        <img src="https://cdn.simpleicons.org/laravel/ffffff" height="22" alt="Laravel" />
+        <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="22" alt="Next.js" />
+        <img src="https://cdn.simpleicons.org/docker/ffffff" height="22" alt="Docker" />
+        <img src="https://cdn.simpleicons.org/linux/ffffff" height="22" alt="Linux" />
+        <br/><br/>
+        <sub>Infra pragmática: produção, automação e ambiente Linux.</sub>
+      </td>
+    </tr>
+  </table>
+</details>
 
-<img align="right" height="150" src="URL_GIF_SUTIL_OPCIONAL.gif"/>
+<details>
+  <summary><b>Projetos (destaques)</b> <sub>— clique para abrir</sub></summary>
+  <br/>
 
-## 👨‍💻 Sobre mim
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <b>Sentinela Ambiental</b><br/>
+        <sub>Sistema orientado a dados para monitoramento ambiental e análise de risco de queimadas.</sub>
+        <br/><br/>
+        <sub><b>Tech:</b> Python • Pandas • Streamlit • Data Science</sub>
+        <br/><br/>
+        <a href="COLE_AQUI_O_LINK_DO_REPOSITORIO" target="_blank">Ver repositório</a>
+      </td>
+      <td width="50%" valign="top">
+        <b>PraxiLab</b><br/>
+        <sub>Plataforma educacional gamificada focada em aprendizagem prática, autonomia e evolução contínua.</sub>
+        <br/><br/>
+        <sub><b>Tech:</b> Next.js • Dados • Educação • Gamificação</sub>
+        <br/><br/>
+        <a href="COLE_AQUI_O_LINK_DO_PROJETO" target="_blank">Acompanhar projeto</a>
+      </td>
+    </tr>
+  </table>
+</details>
 
-Minha trajetória na tecnologia começou cedo, com **manutenção de computadores e hardware**, o que me proporcionou uma base sólida em **resolução de problemas, sistemas e infraestrutura**.
+<details>
+  <summary><b>Métricas (GitHub)</b> <sub>— clique para abrir</sub></summary>
+  <br/>
 
-Com o tempo, minha atuação evoluiu para:
-- desenvolvimento de sistemas
-- análise e visualização de dados
-- automações e pipelines
-- plataformas educacionais e institucionais
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=6xAs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6xAs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+  </div>
 
-Hoje, trabalho na interseção entre **tecnologia, dados e educação**, com foco em soluções que sejam **úteis, escaláveis e com impacto real**.
+  <br/>
+  <sub>
+    Observação: métricas podem variar por cache e privacidade de repositórios.
+  </sub>
+</details>
 
----
+<hr/>
 
-## 🧰 Stack principal
-
-### 🔹 Linguagens & Dados
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-</p>
-
-### 🔹 Frameworks & Ferramentas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
-</p>
-
----
-
-## 🧩 Projetos em destaque
-
-### 🌱 Sentinela Ambiental
-Sistema orientado a dados para **monitoramento ambiental e análise de risco de queimadas**, integrando pipelines de dados, visualização e modelos preditivos.
-
-**Tecnologias:** Python • Pandas • Streamlit • Ciência de Dados  
-🔗 *Repositório / Demo em breve*
-
----
-
-### 🎓 PraxiLab
-Plataforma educacional gamificada focada em **aprendizagem prática, autonomia e evolução contínua**, conectando tecnologia e educação de forma significativa.
-
-**Tecnologias:** Next.js • Dados • Educação • Gamificação  
-🔗 *Projeto em desenvolvimento*
-
----
-
-## 🏅 Conquistas & mentalidade
-
-- 🦈 **Pull Shark** — Pull Requests aceitos e colaboração ativa
-- ❄️ **Arctic Code Vault Contributor** — Código arquivado para o futuro
-- 🤝 Forte cultura de colaboração e código aberto
-- 📚 Aprendizado contínuo e compartilhamento de conhecimento
-
----
-
-## 🌐 Onde me encontrar
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>"A tecnologia é mais poderosa quando gera entendimento, não apenas complexidade."</em>
-</p>
+<!-- =======================
+     FOOTER: CONTACT + REFERENCES
+======================= -->
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <b>Contato</b><br/><br/>
+      <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="16" alt="LinkedIn" />
+      <a href="SEU_LINKEDIN" target="_blank">LinkedIn</a>
+      <br/><br/>
+      <img src="https://cdn.simpleicons.org/gmail/ffffff" height="16" alt="Gmail" />
+      <a href="mailto:SEU_EMAIL@gmail.com">SEU_EMAIL@gmail.com</a>
+    </td>
+    <td width="40%" valign="top">
+      <b>Referências</b><br/><br/>
+      <img src="https://cdn.simpleicons.org/github/ffffff" height="16" alt="GitHub" />
+      <a href="https://github.com/6xAs" target="_blank">github.com/6xAs</a>
+      <br/><br/>
+      <sub>README otimizado para leitura rápida e navegação por painéis.</sub>
+    </td>
+  </tr>
+</table>
