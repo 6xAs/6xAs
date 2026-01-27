@@ -58,13 +58,13 @@ Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramenta
         <h3>Sentinela Ambiental</h3>
         <p>Sistema orientado a dados para monitoramento ambiental e análise de risco de queimadas, integrando pipeline, visualização e abordagem preditiva.</p>
         <p><b>Tech:</b> Python • Pandas • Streamlit • Data Science</p>
-        <a href="LINK_DO_REPOSITORIO_SENTINELA" target="_blank">Ver repositório</a>
+        <a href="https://github.com/6xAs/sentinela-ambiental" target="_blank">Ver repositório</a>
       </td>
       <td width="50%" valign="top">
         <h3>PraxiLab</h3>
         <p>Plataforma educacional gamificada focada em aprendizagem prática, autonomia e evolução contínua.</p>
         <p><b>Tech:</b> Next.js • Dados • Educação • Gamificação</p>
-        <a href="LINK_DO_PROJETO_PRAXILAB" target="_blank">Acompanhar projeto</a>
+        <a href="#" target="_blank">Acesse em Breve</a>
       </td>
     </tr>
   </table>
@@ -79,11 +79,11 @@ Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramenta
 <!-- FOOTER SOMENTE CONTATO + REFERÊNCIAS -->
 <!-- ICONES SOCIAIS CENTRALIZADOS -->
 <p align="center">
-  <a href="SEU_LINKEDIN" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/anderson-seixas-/" target="_blank" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL@gmail.com" title="Email">
+  <a href="mailto:anderson.6xas@gmail.com" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail" height="38" alt="Gmail"/>
   </a>
 </p>
