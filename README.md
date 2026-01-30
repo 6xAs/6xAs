@@ -14,7 +14,7 @@ Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramenta
 
 <!-- STATS MAIORES -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6xAs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="190" alt="GitHub Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=6xAs&theme=tokyonight" height="190" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6xAs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="190" alt="Top Langs"/>
 </div>
 
