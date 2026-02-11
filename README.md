@@ -43,7 +43,7 @@ Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramenta
 <h2 align="center">Stack Principal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,laravel,streamlit,nextjs,docker,linux,mysql,git&perline=10" alt="Stack Icons" />
+  <img src="https://cdn-icons-png.flaticon.com/512/11987/11987364.png" alt="Stack Icons" />
 </p>
 
 <!-- “TABS” via DETAILS (compacto e elegante) -->
