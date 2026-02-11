@@ -14,8 +14,7 @@ Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramenta
 
 <!-- STATS MAIORES -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6xAs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="190" alt="Top Langs"/>
-</div>
+  <img src="https://cdn-icons-png.flaticon.com/512/11987/11987364.png" width="100" height="100" alt="Stack Icons" />
 
 <br/>
 
@@ -43,12 +42,13 @@ Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramenta
 <h2 align="center">Stack Principal</h2>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/11987/11987364.png" alt="Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,laravel,streamlit,nextjs,docker,linux,mysql,git&perline=10" alt="Stack Icons" />
 </p>
+
 
 <!-- “TABS” via DETAILS (compacto e elegante) -->
 <details>
-  <summary><h2 style="display:inline;">Projetos (abrir)</h2></summary>
+  <summary><h2 style="display:inline;">Projetos Principais (abrir)</h2></summary>
   <br/>
 
   <table width="100%">
