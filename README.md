@@ -8,6 +8,7 @@
 <p align="center">
 Crio soluções que transformam <b>dados, sistemas e processos</b> em ferramentas práticas para <b>tomada de decisão, educação e automação</b>.
 </p>
+<p>Teste para Alunos</p>
 
 <br/>
 
